@@ -1,1 +1,3 @@
 Travis Thomas
+
+Seth Goodson
